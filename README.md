@@ -97,9 +97,6 @@
 
 <img align="right" height="150" src="https://media1.tenor.com/m/AU7dFDta79wAAAAC/crayon-shinchan-dancing.gif"  />
 
-###
-
-<img src="https://raw.githubusercontent.com/gks2022004/gks2022004/output/snake.svg" alt="Snake animation" />
 
 ###
 
