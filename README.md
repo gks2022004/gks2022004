@@ -3,8 +3,8 @@ Hi 👋 My name is Gaurav Kumar Singh
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [imgauravkumar7@gmail.com](mailto:imgauravkumar7@gmail.com)
-* 🧠  I'm learning Blockchain and web3 development
-* ⚡  I'm highly interested in Web3,defi, crypto and rockets🚀💻😎
+* 🧠  I'm blockchain dev
+* ⚡  I'm highly interested in Web3,defi,crypto and rockets🚀💻😎
 
 ### Skills
 
