@@ -17,7 +17,7 @@ Hi 👋 My name is Gaurav Kumar Singh
 
 ###
 
-<img align="right" height="80" src="https://media1.tenor.com/m/AU7dFDta79wAAAAC/crayon-shinchan-dancing.gif" />
+<img align="right" height="100" src="https://media1.tenor.com/m/AU7dFDta79wAAAAC/crayon-shinchan-dancing.gif" />
 
 
 
