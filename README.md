@@ -1,4 +1,4 @@
-Hi 👋 My name is Gaurav Kumar Singh
+Hi 👋 This is Gaurav Kumar Singh
 ===================================
 
 * 🌍  I'm based in India
