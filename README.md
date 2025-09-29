@@ -33,6 +33,8 @@ Hi 👋 This is Gaurav Kumar Singh
 ### Badges
 <img src="https://github.com/user-attachments/assets/13e0f4de-2423-49b7-a8bb-c92190398bf7" alt="Image description" width="150" height="150"/>
 
+<img src="https://github.com/user-attachments/assets/31db3593-a7f0-4c3c-b91e-50c54a479ffd" alt="Image description"
+width="150" height="150"/>
 
 
 <b>My GitHub Stats</b>
