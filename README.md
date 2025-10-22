@@ -17,7 +17,7 @@ Hi 👋 This is Gaurav Kumar Singh
 
 ###
 
-<img align="right" height="100" src="https://media1.tenor.com/m/AU7dFDta79wAAAAC/crayon-shinchan-dancing.gif" />
+<img align="right" height="200" src="https://media1.tenor.com/m/AU7dFDta79wAAAAC/crayon-shinchan-dancing.gif" />
 
 
 
@@ -31,12 +31,11 @@ Hi 👋 This is Gaurav Kumar Singh
 <p align="left"> <a href="https://discord.com/users/miyamoto_musashi7174" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/gks2022004" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in//imgauravkumar7/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/i_amgauravkumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
-<img src="https://github.com/user-attachments/assets/13e0f4de-2423-49b7-a8bb-c92190398bf7" alt="Image description" width="150" height="150"/>
-
-<img src="https://github.com/user-attachments/assets/31db3593-a7f0-4c3c-b91e-50c54a479ffd" alt="Image description"
-width="150" height="150"/>
-
-<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Image description" width="150" height="150"/>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github.com/user-attachments/assets/13e0f4de-2423-49b7-a8bb-c92190398bf7" alt="Image description" width="150" height="150"/>
+  <img src="https://github.com/user-attachments/assets/31db3593-a7f0-4c3c-b91e-50c54a479ffd" alt="Image description" width="150" height="150"/>
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Image description" width="150" height="150"/>
+</div>
 
 
 <b>My GitHub Stats</b>
