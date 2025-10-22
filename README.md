@@ -36,6 +36,8 @@ Hi 👋 This is Gaurav Kumar Singh
 <img src="https://github.com/user-attachments/assets/31db3593-a7f0-4c3c-b91e-50c54a479ffd" alt="Image description"
 width="150" height="150"/>
 
+<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Image description" width="150" height="150"/>
+
 
 <b>My GitHub Stats</b>
 
